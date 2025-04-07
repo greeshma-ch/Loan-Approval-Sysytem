@@ -1,0 +1,24 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+*.a
+*.so
+
+# Ignore dependency files
+*.d
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup and temporary files
+*~
+*.bak
+*.swp
+
+# Ignore user-generated data files
+loan_data.csv
